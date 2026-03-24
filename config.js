@@ -15,13 +15,13 @@ global.owner = [
   ['393512102631', 'endy', true],
 
 ]
-global.mods = ['393514357738', '393511082922', '393392645292']
-global.prems = ['393514357738', '393511082922', '212614769337']
+global.mods = ['xxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['xxxxxxxx', 'xxxxxxxx', 'xxxxxxxxx']
 
 /*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
 global.nomepack = 'estreia bot'
-global.nomebot = 'estreia hot'
+global.nomebot = 'estreia bot'
 global.wm = 'estreia bot'
 global.autore = 'Estreia'
 global.dev = 'Estreia'
