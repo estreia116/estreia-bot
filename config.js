@@ -6,7 +6,7 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
-global.prefisso = '.'
+global.prefisso = '!'
 global.sam = ['12343764029',]
 global.owner = [
   ['12343764029', 'estreia', true],
