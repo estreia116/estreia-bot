@@ -12,7 +12,7 @@ global.owner = [
   ['12343764029', 'estreia', true],
   ['212779218290', 'cri', true],
   ['15482966314', 'kri', true],
-  ['393512102631', 'endy', true],
+  ['393501989497', 'endy', true],
 
 ]
 global.mods = ['xxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
