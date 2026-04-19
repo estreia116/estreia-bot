@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBsqvyF1YlXIC2zUh1N">
-    <img src="https://img.shields.io/badge/CANALE_WHATSAPP-UNISCITI_ORA-00E5FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canale WhatsApp" />
+  <a href="">
+    <img src="https://img.shields.io/badge/GRUPPO_WHATSAPP-UNISCITI_ORA-FF0099?style=for-the-badge&logo=whatsapp&logoColor=white" alt="gruppo  WhatsApp" />
   </a>
 </p>
 
