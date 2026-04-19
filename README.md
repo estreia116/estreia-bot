@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://chat.whatsapp.com/Kpwwib3ZR3736phSkWWmbl?mode=gi_t">
     <img src="https://img.shields.io/badge/GRUPPO_WHATSAPP-UNISCITI_ORA-FF0099?style=for-the-badge&logo=whatsapp&logoColor=white" alt="gruppo  WhatsApp" />
   </a>
 </p>
