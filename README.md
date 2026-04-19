@@ -13,19 +13,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=000080&center=true&vCenter=true&width=600&height=60&lines=STATUS:+ONLINE+✅;SYSTEM:+STABLE+🚀;OWNER:+ENDY" alt="Status SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=FF0088&center=true&vCenter=true&width=600&height=60&lines=STATUS:+ONLINE+✅;SYSTEM:+STABLE+🚀;OWNER:+ESTREIA" alt="Status SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=DESCRIZIONE;SPECIFICHE+TECNICHE" alt="Descrizione" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=DESCRIZIONE;SPECIFICHE+TECNICHE" alt="Descrizione" />
 </p>
 
-**ZEYNO-BOT** è un ecosistema avanzato per WhatsApp, costruito per garantire la massima potenza e stabilità.
+**STELLINA-BOT** è un ecosistema avanzato per WhatsApp, costruito per garantire la massima potenza e stabilità.
 
 * **Core Ultra-Rapido:** Sviluppato in Node.js (V16+) con architettura asincrona.
-* **Sicurezza:** Algoritmo Anti-Ban 5.0 con rotazione degli header.
+* **Sicurezza:** Algoritmo Anti-Ban 1.0 con rotazione degli header.
 * **Stabilità:** Gestione intelligente dei messaggi per prevenire crash.
 
 ---
@@ -44,8 +44,8 @@
     ```
 2.  **Clone del Bot:**
     ```bash
-    git clone [https://github.com/Endy-bit/Zeyno-bot-MD.git](https://github.com/Endy-bit/Zeyno-bot-MD.git)
-    cd Zeyno-bot-MD
+    git clone [https://github.com/aahmed2542011-png/Stellina-bot-.git](https://github.com/aahmed2542011-png/Stellina-bot-.git)
+    cd Stellina-bot-.git
     ```
 3.  **Avvio:**
     ```bash
@@ -66,36 +66,36 @@
     pm2 save
     pm2 startup
     ```
-3.  **Monitoraggio:** Usa `pm2 logs Endy-bot` per visualizzare il QR Code e i log.
+3.  **Monitoraggio:** Usa `pm2 logs Estreia-bot` per visualizzare il QR Code e i log.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=STATISTICHE;LIVE+REPORT" alt="Analisi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0099&center=true&vCenter=true&width=700&height=80&lines=STATISTICHE;LIVE+REPORT" alt="Analisi" />
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Endy-bit/Zeyno-bot-MD" alt="Views" />
-  <img src="https://img.shields.io/github/forks/Endy-bit/Zeyno-bot-MD?style=for-the-badge&label=FORKS&color=red" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/Endy-bit/Zeyno-bot-MD?style=for-the-badge&label=STARS&color=yellow" alt="Stars" />
+  <img src="https://gpvc.arturio.dev/Estreia-bit/Stellina-bot" alt="Views" />
+  <img src="https://img.shields.io/github/forks/aahmed2542011-png/Stellina-bot-.git?style=for-the-badge&label=FORKS&color=red" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/aahmed2542011/Stellina-bot-.git?style=for-the-badge&label=STARS&color=yellow" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Endy-bit&repo=Zeyno-bot-MD&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed2542011&repo=Stellina-bot-.git&theme=estreia-dark&title_color=FF0088&icon_color=FF0088" width="100%" alt="Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=BC13FE&center=true&vCenter=true&width=700&height=80&lines=STAFF;CONTATTI" alt="Staff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=500&color=FF0088&center=true&vCenter=true&width=700&height=80&lines=STAFF;CONTATTI" alt="Staff" />
 </p>
 
-* **Sviluppatore:** Endy 
-* **Supporto WhatsApp:** [+39 350 198 9497](https://wa.me/393501989497)
-* **Community:** [UNISCITI AL GRUPPO ZOZZAP](https://chat.whatsapp.com/EPY9EqMNV6XD0PmVk8jbEb?mode=gi_t)
+* **Sviluppatore:** Estreia 
+* **Supporto WhatsApp:** [+39 375 697 2784](https://wa.me/393756972784)
+* **Community:** [UNISCITI AL GRUPPO ZOZZAP](https://chat.whatsapp.com/Kpwwib3ZR3736phSkWWmbl?mode=gi_t)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF0000&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+ZEYNO-BOT-MD!" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+Stellina-bot-.git!" alt="Thanks" />
 </p>
 
 <p align="center">
@@ -103,5 +103,5 @@
 </p>
 
 <p align="center">
-  <b>© 2026 ZEYNO-BOT • Sviluppato by Endy</b>
+  <b>© 2026 STELLINA-BOT • Sviluppato by Estreia</b>
 </p>
